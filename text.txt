@@ -1,3 +1,7 @@
 Hello
+<<<<<<< HEAD
 I am Bob.
+=======
+I am Alice.
+>>>>>>> feature
 I am from Bangalore.
